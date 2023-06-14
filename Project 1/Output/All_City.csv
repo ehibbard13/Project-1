@@ -1,0 +1,261 @@
+,city,name,address,access,type,fee,capacity
+0,New York,East River Plaza Garage,"520 East 117th Street, New York, NY 10035, United States of America",yes,multi-storey,yes,
+1,New York,Edison ParkFast,"375 Lafayette Street, New York, NY 10003, United States of America",yes,surface,yes,
+2,New York,"Alfred Car Park, LLC","161 West 61st Street, New York, NY 10023, United States of America",yes,underground,yes,140.0
+3,New York,Edison ParkFast,"466 East 110th Street, New York, NY 10029, United States of America",customers,surface,yes,
+4,New York,MPG Parking,"230 East 97th Street, New York, NY 10129, United States of America",customers,multi-storey,yes,200.0
+5,New York,iPark,"152 East 97th Street, New York, NY 10029, United States of America",customers,underground,yes,150.0
+6,New York,iPark,"176 East 97th Street, New York, NY 10128, United States of America",customers,underground,yes,209.0
+7,New York,Yorkville Car Park,"230 East 92nd Street, New York, NY 10128, United States of America",yes,underground,yes,301.0
+8,New York,Icon Parking,"11 East 8th Street, New York, NY 10003, United States of America",customers,underground,yes,113.0
+9,New York,Lincoln Center Park and Lock Garage,"140 West 65th Street, New York, NY 10023, United States of America",yes,underground,yes,721.0
+10,New York,Delancey & Essex Municipal Garage,"107 Essex Street, New York, NY 10002, United States of America",customers,multi-storey,yes,
+11,New York,Knickerbocker Plaza Car Park,"240 East 92nd Street, New York, NY 10128, United States of America",yes,underground,yes,104.0
+12,New York,Icon Parking,"East 95th Street, New York, NY 10128, United States of America",customers,underground,yes,320.0
+13,New York,60 Riverside Blvd,"400 West 63rd Street, New York, NY 10069, United States of America",yes,underground,yes,118.0
+14,New York,SP+ Parking,"200 East 61st Street, New York, NY 10065, United States of America",customers,underground,yes,
+15,New York,Skyport,"2420 FDR Drive, New York, NY 10002, United States of America",yes,multi-storey,yes,
+0,Los Angeles,Parking Lot F5,"Matador Way, Los Angeles, CA 91325, United States of America",customers,surface,yes,
+1,Los Angeles,P-3,"World Way, Los Angeles, CA 90009, United States of America",yes,multi-storey,yes,
+2,Los Angeles,P-4,"World Way, Los Angeles, CA 90245, United States of America",yes,multi-storey,yes,
+3,Los Angeles,Metro Park and Ride,"South La Cienega Boulevard, Los Angeles, CA 90250, United States of America",yes,multi-storey,no,
+4,Los Angeles,Restricted Lot F4,"Vincennes Street, Los Angeles, CA 91330, United States of America",private,surface,yes,
+5,Los Angeles,P-2B,"West Way, Los Angeles, CA 90009, United States of America",yes,multi-storey,yes,
+6,Los Angeles,Parking 2,"Charles E Young Drive East, Los Angeles, CA 90095, United States of America",yes,multi-storey,yes,
+7,Los Angeles,Parking 8,"501-555 Strathmore Place, Los Angeles, CA 90024, United States of America",yes,multi-storey,yes,
+8,Los Angeles,Parking E,"Tiverton Drive, Los Angeles, CA 90095, United States of America",yes,multi-storey,yes,
+9,Los Angeles,Upper Lot,"Mineral Springs Trail, Los Angeles, CA 90039, United States of America",yes,surface,no,
+10,Los Angeles,Lower Lot,"Lower Old Zoo Trail, Los Angeles, CA 90039, United States of America",yes,surface,no,
+11,Los Angeles,Admissions Parking Lot 1,"The Mall, Los Angeles, CA 91371, United States of America",permissive,surface,yes,
+12,Los Angeles,Lot G7,"Zelzah Avenue, Los Angeles, CA 91325, United States of America",customers,surface,yes,
+13,Los Angeles,Faculty/Staff Lot F2,"Bertrand Avenue, Los Angeles, CA 91330, United States of America",permissive,surface,yes,
+14,Los Angeles,B3 Parking Structure,"Sierra Walk, Los Angeles, CA 91330, United States of America",customers,multi-storey,yes,
+15,Los Angeles,Park 'N Fly,"Sepulveda Boulevard, Los Angeles, CA 90009, United States of America",customers,surface,yes,
+16,Los Angeles,Zoo Parking,"Main Trail, Los Angeles, CA 91201, United States of America",customers,surface,no,500.0
+17,Los Angeles,Autry Museum Parking,"Western Heritage Way, Los Angeles, CA 91201, United States of America",yes,surface,no,
+18,Los Angeles,Metro Park and Ride,"Main Street, Los Angeles, CA 91608, United States of America",yes,surface,yes,
+19,Los Angeles,Union Station Visitor Lot B,"Union Station Driveway, Los Angeles, CA 90086, United States of America",customers,surface,yes,
+20,Los Angeles,Rosecrans Park And Ride,"Rosecrans Avenue, Los Angeles, CA 90248, United States of America",permissive,surface,yes,342.0
+21,Los Angeles,Manchester Park And Ride,"West Manchester Avenue, Los Angeles, CA 90044, United States of America",permissive,surface,yes,127.0
+22,Los Angeles,Porter Ranch Park And Ride,"Apeta Momonga Mission Trail, West Chatsworth, CA 91311, United States of America",permissive,surface,yes,177.0
+23,Los Angeles,Farmers,"Owensmouth Avenue, Los Angeles, CA 91367, United States of America",private,multi-storey,yes,
+24,Los Angeles,Faculty/Staff Lot D5,"Jacaranda Walk, Los Angeles, CA 91330, United States of America",private,surface,yes,
+25,Los Angeles,ADA Parking Lot E6,"ADA Parking, Los Angeles, CA 91330, United States of America",customers,surface,yes,
+26,Los Angeles,Faculty/Staff Lot B4,"Darby Avenue, Los Angeles, CA 91330, United States of America",permissive,surface,yes,
+27,Los Angeles,Faculty/Staff Parking Lot D6,"ADA Parking, Los Angeles, CA 91330, United States of America",permissive,surface,yes,
+28,Los Angeles,Parking Lot E6,"ADA Parking, Los Angeles, CA 91330, United States of America",customers,surface,yes,
+29,Los Angeles,Student Lot B6,"Darby Avenue, Los Angeles, CA 91330, United States of America",customers,surface,yes,
+30,Los Angeles,Lot C6,"Halsted Street, Los Angeles, CA 91325, United States of America",private,surface,yes,
+31,Los Angeles,Restricted Lot F3,"Bertrand Avenue, Los Angeles, CA 91330, United States of America",private,surface,yes,11.0
+32,Los Angeles,Student Lot B3,"Darby Avenue, Los Angeles, CA 91330, United States of America",customers,surface,yes,
+33,Los Angeles,Lot E9,"Lindley Avenue, Los Angeles, CA 91325, United States of America",private,surface,yes,
+34,Los Angeles,Lot F7,"Matador Way, Los Angeles, CA 91325, United States of America",private,surface,yes,
+35,Los Angeles,Lot G7,"Zelzah Avenue, Los Angeles, CA 91325, United States of America",customers,surface,yes,
+36,Los Angeles,Lot 35,"Ashton Avenue, Los Angeles, CA 90024, United States of America",yes,surface,yes,
+37,Los Angeles,Skirball & Mulholland Park And Ride,"Skirball Center Drive, Los Angeles, CA 90049, United States of America",permissive,surface,yes,26.0
+38,Los Angeles,Metro Park and Ride,"Lankershim Boulevard, Los Angeles, CA 91601, United States of America",yes,surface,yes,
+39,Los Angeles,Metro Park and Ride,"Fair Avenue, Los Angeles, CA 91601, United States of America",yes,surface,yes,
+40,Los Angeles,Lot 2,"Downey Way, Los Angeles, CA 90089, United States of America",yes,surface,yes,
+41,Los Angeles,Lot G10,"Zelzah Avenue, Los Angeles, CA 91325, United States of America",customers,surface,yes,
+42,Los Angeles,Jules Stein Parking,"Stein Plaza, Los Angeles, CA 90095, United States of America",customers,surface,yes,
+43,Los Angeles,Lot 6,"Lagoon Drive, Los Angeles, CA 90710, United States of America",customers,surface,yes,
+44,Los Angeles,Bank of America Parking,"14701 Ventura Boulevard, Los Angeles, CA 91403, United States of America",customers,surface,no,
+45,Los Angeles,Trippet Ranch Parking Lot,"Entrada Road, Topanga, CA 90290, United States of America",yes,surface,yes,
+46,Los Angeles,Downey Way Parking Structure,"3667 West 36th Place, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
+47,Los Angeles,Jefferson Blvd. Parking Structure,"West 34th Street, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
+48,Los Angeles,Royal Street Parking Structure,"649 West Jefferson Boulevard, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
+49,Los Angeles,McCarthy Way Parking Structure,"McCarthy Way, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
+50,Los Angeles,Broadway Mall Parking,"450;440 South Broadway, Los Angeles, CA 90013, United States of America",yes,multi-storey,yes,
+51,Los Angeles,Grand Central Square Parking Garage,"308 South Hill Street, Los Angeles, CA 90013, United States of America",yes,multi-storey,yes,
+52,Los Angeles,Metro Parking,"Crenshaw Boulevard, Los Angeles, CA 90016, United States of America",yes,multi-storey,no,
+53,Los Angeles,Studio City Public Parking,"Valleyheart Drive, Los Angeles, CA 91604, United States of America",yes,multi-storey,yes,400.0
+54,Los Angeles,B5 Parking Structure,"West University Drive, Los Angeles, CA 91330, United States of America",customers,multi-storey,yes,
+55,Los Angeles,Parking Structure G3,"Sierra Walk, Los Angeles, CA 91330, United States of America",customers,multi-storey,yes,300.0
+56,Los Angeles,Farmers,"West Valley Way, Los Angeles, CA 91367, United States of America",private,multi-storey,yes,
+57,Los Angeles,Public Parking,"Alley ‎80507, Los Angeles, CA 91303, United States of America",yes,surface,no,35.0
+58,Los Angeles,Green Thumb parking,"Alley ‎80980, Los Angeles, CA 91303, United States of America",customers,surface,no,
+59,Los Angeles,Wells Fargo Parking,"Alley ‎80979, Los Angeles, CA 91303, United States of America",customers,surface,no,
+60,Los Angeles,Follow Your Heart parking,"Alley ‎89090, Los Angeles, CA 91303, United States of America",customers,surface,no,
+61,Los Angeles,Centenary United Methodist Church Parking Lot,"South Central Avenue, Los Angeles, CA 90013, United States of America",private,surface,yes,120.0
+62,Los Angeles,Getty Center Parking,"Getty Center Drive, Los Angeles, CA 90049, United States of America",yes,underground,yes,
+63,Los Angeles,City of Los Angeles Lot 7,"140 Judge John Aiso Street, Los Angeles, CA 90013, United States of America",yes,surface,yes,
+64,Los Angeles,metered,"Darby Avenue, Los Angeles, CA 91330, United States of America",yes,surface,yes,25.0
+65,Los Angeles,USC Parking,"West 30th Street, Los Angeles, CA 90007, United States of America",permit,surface,yes,
+66,Los Angeles,Vermont & WIlshire Parking Lot -LADOT Facility No. 691,"682 South Vermont Avenue, Los Angeles, CA 90005, United States of America",permit,surface,yes,65.0
+67,Los Angeles,Sepulveda Station Parking Lot,"15430 Erwin Street, Los Angeles, CA 91411, United States of America",yes,surface,no,260.0
+68,Los Angeles,O'Melveny Park Parking,"O'Melveny Park, Los Angeles, CA 91312, United States of America",permissive,surface,no,35.0
+69,Los Angeles,Trader Joe's Surplus Parking,"Hyperion Avenue, Los Angeles, CA 90227, United States of America",customers,surface,no,
+70,Los Angeles,Union Station Visitor Lot D,"Union Station Underground Walkway, Los Angeles, CA 90086, United States of America",customers,surface,yes,
+71,Los Angeles,LAX Economy Parking,"6100 94th Street, Los Angeles, CA 90045, United States of America",customers,multi-storey,yes,
+72,Los Angeles,Cabrillo Marina Berth 33,"224 Watchorn Walk, Los Angeles, CA 90731, United States of America",private,surface,yes,200.0
+73,Los Angeles,Parking 4,"Westwood Plaza, Los Angeles, CA 90095, United States of America",private,underground,yes,
+74,Los Angeles,USC Parking,"West 32nd Street, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
+0,Chicago,Washington-Madison-Wells Self Park,"172 West Madison Street, Chicago, IL 60602, United States of America",yes,multi-storey,yes,
+1,Chicago,Midway Park & Ride,"West 59th Street, Chicago, IL 60629, United States of America",yes,surface,yes,299.0
+2,Chicago,Midway Park Saver,"4607 West 59th Street, Chicago, IL 60629, United States of America",yes,surface,yes,
+3,Chicago,Howard Park & Ride,"7474-7478 North Rogers Avenue, Chicago, IL 60626, United States of America",yes,multi-storey,yes,592.0
+4,Chicago,Hegewisch Park & Ride,"South Brainard Avenue, Chicago, IL 60633, United States of America",yes,surface,yes,1220.0
+5,Chicago,Airways Parking,"4532 West 55th Street, Chicago, IL 60632, United States of America",yes,surface,yes,
+6,Chicago,Kensington / 115th Street Station Parking Lot,"South Front Avenue, Chicago, IL 60628, United States of America",yes,surface,yes,84.0
+7,Chicago,Hegewisch NICTD #1,"South Buffalo Avenue, Chicago, IL 60633, United States of America",yes,surface,yes,337.0
+0,Houston,MFAH Parking Garage,"5600 Fannin Street, Houston, TX 77005, United States of America",customers,multi-storey,yes,
+1,Houston,McKinney Garage,"McKinney Street, Houston, TX 77010, United States of America",yes,multi-storey,yes,
+2,Houston,Parking Lot E,"Hermann Park Drive, Houston, TX 77004, United States of America",yes,surface,no,
+3,Houston,Capitol Tower Garage,"Travis Street, Houston, TX 77006, United States of America",permissive,multi-storey,yes,
+4,Houston,Greenbriar Lot,"Rice Boulevard, Houston, TX 77005, United States of America",private,surface,yes,
+5,Houston,Bay Area Park and Ride,"801 Bay Area Boulevard, Houston, TX 77062, United States of America",yes,surface,no,1155.0
+6,Houston,Westwood Park and Ride,"Southwest Freeway Frontage Road, Houston, TX 77074, United States of America",customers,surface,no,
+7,Houston,Moran Center Parking Garage,"Graustark Street, Houston, TX 77006, United States of America",private,multi-storey,yes,880.0
+8,Houston,Menil Collection parking,"Mulberry Street, Houston, TX 77006, United States of America",customers,surface,no,
+9,Houston,Hilcroft Park and Ride,"Southwest Freeway, Houston, TX 77081, United States of America",customers,surface,no,
+10,Houston,1110 Rusk Garage,"1110 Rusk Street, Houston, TX 77003, United States of America",permissive,multi-storey,yes,
+11,Houston,Memorial City Plaza Parking Garage,"Gessner Road, Houston, TX 77043, United States of America",customers,multi-storey,no,
+12,Houston,Westwood Park and Ride,"Southwest Freeway Frontage Road, Houston, TX 77074, United States of America",customers,surface,no,
+13,Houston,Discovery Green Garage,"1002 Avenida de Las Americas, Houston, TX 77010, United States of America",permissive,underground,yes,
+14,Houston,Holiday Inn Parkiing Lot,"John Fitzgerald Kennedy Boulevard, Houston, TX 73032, United States of America",customers,surface,no,100.0
+15,Houston,Binz Garage,"1001 Texas Avenue, Houston, TX 77002, United States of America",permissive,multi-storey,yes,
+16,Houston,Sax Garage,"Fannin Street, Houston, TX 77004, United States of America",permissive,multi-storey,yes,
+17,Houston,Block 94 Garage,"803 Fannin Street, Houston, TX 77002, United States of America",no,multi-storey,yes,
+18,Houston,Christ Church Cathedral Garage,"Texas Avenue, Houston, TX 77002, United States of America",permissive,multi-storey,yes,
+19,Houston,One Market Square Garage,"Prairie Street, Houston, TX 77002, United States of America",permissive,multi-storey,yes,
+20,Houston,North Garage,"Swan Road, Houston, TX 77072, United States of America",private,multi-storey,no,150.0
+21,Houston,South Garage,"Milner Road, Houston, TX 77032, United States of America",private,multi-storey,no,300.0
+22,Houston,Northwest Garage,"North Sam Houston Parkway East, Houston, TX 77032, United States of America",private,multi-storey,no,800.0
+23,Houston,1311 Louisiana St Garage,"1311 Louisiana Street, Houston, TX 77002, United States of America",permissive,multi-storey,yes,
+24,Houston,33ThirtyThree -Parking Garage 2,"Cummins Street, Houston, TX 77046, United States of America",private,multi-storey,no,450.0
+25,Houston,METRO West Bellfort Park & Ride,"Keegan's Bayou Trail, Houston, TX 77031, United States of America",customers,surface,no,
+26,Houston,Northline Transit Center Parking,"Fulton Street, Houston, TX 77022, United States of America",yes,surface,no,
+27,Houston,Quitman Park & Ride,"North Main Street, Houston, TX 77009, United States of America",yes,surface,no,17.0
+0,Fort Worth,East Parking Lot Annex (Bell Helicopter),"Huey Trail, Fort Worth, TX 76022, United States of America",private,surface,no,
+1,Fort Worth,HARRIS CENTER VISITOR PARKING GARAGE,"1325 Pennsylvania Avenue, Fort Worth, TX 76104, United States of America",yes,multi-storey,yes,
+2,Fort Worth,East Parking Lot (Bell Helicopter),"Bell Flight Boulevard, Fort Worth, TX 76053, United States of America",private,surface,no,
+3,Fort Worth,South Parking Lot (Bell Helicopter),"Trinity Boulevard, Fort Worth, TX 76053, United States of America",private,surface,no,
+4,Fort Worth,Plant 2 Parking Lot (Bell Helicopter),"South Norwood Drive, Fort Worth, TX 76053, United States of America",private,surface,no,
+5,Fort Worth,Garage 1 & 2,"American Way, Fort Worth, TX 76155, United States of America",private,multi-storey,no,
+0,Miami,Lot 59,"Northwest 7th Street, Miami, FL 33132, United States of America",yes,surface,yes,
+1,Miami,Brickell View Terrace Garage,"110 Southwest 9th Street, Miami, FL 33130, United States of America",yes,multi-storey,yes,
+0,Atlanta,LAZ Parking Lot,"123 Peachtree Street Southwest, Atlanta, GA 30303, United States of America",permissive,surface,yes,
+1,Atlanta,International Garage,"30 Andrew Young International Boulevard Northeast, Atlanta, GA 30303, United States of America",yes,multi-storey,yes,
+2,Atlanta,AAA Parking,"31 Baker Street Northwest, Atlanta, GA 30308, United States of America",yes,multi-storey,yes,
+3,Atlanta,REEF Parking,"38 John Portman Boulevard Northwest, Atlanta, GA 30308, United States of America",yes,surface,yes,
+4,Atlanta,Technology Square Parking Deck,"Williams Street Northwest, Atlanta, GA 30309, United States of America",yes,multi-storey,yes,
+5,Atlanta,East Lake Park & Ride,"East Lake Drive, Decatur, GA 30030, United States of America",customers,surface,no,611.0
+6,Atlanta,D3B,"East Paces Ferry Road Northeast, Atlanta, GA 30305, United States of America",customers,multi-storey,no,
+7,Atlanta,L5,"East Paces Ferry Road Northeast, Atlanta, GA 30305, United States of America",customers,surface,no,
+8,Atlanta,L3,"Lenox Road, Atlanta, GA 30326, United States of America",customers,surface,no,
+9,Atlanta,L1,"Peachtree Road Northeast, Atlanta, GA 30326, United States of America",customers,surface,no,
+10,Atlanta,L2,"Peachtree Road Northeast, Atlanta, GA 30326, United States of America",customers,surface,no,
+11,Atlanta,Centergy Parking Deck,"815 Williams Street Northwest, Atlanta, GA 30308, United States of America",customers,multi-storey,yes,550.0
+12,Atlanta,Midtown Promenade Parking,"Atlanta BeltLine Eastside Trail, Atlanta, GA 30308, United States of America",customers,surface,no,
+13,Atlanta,Midtown Promenade Parking,"Monroe Drive Northeast, Atlanta, GA 30324, United States of America",customers,surface,no,
+14,Atlanta,Sage Parking,"Welcome Plaza, Atlanta, GA 30361, United States of America",yes,multi-storey,yes,
+15,Atlanta,Atlanta Medical Parking Deck A,"Parkway Drive Northeast, Atlanta, GA 30308, United States of America",customers,multi-storey,yes,
+16,Atlanta,Windsor Resident Parking,"Ponce de Leon Avenue Northeast, Atlanta, GA 30306, United States of America",private,multi-storey,yes,
+17,Atlanta,IBEW parking lot,"501 Pulliam Street Southwest, Atlanta, GA 30312, United States of America",permissive,surface,no,200.0
+18,Atlanta,Hyatt Self Parking,"Highland Drive Northeast, Atlanta, GA 30305, United States of America",customers,multi-storey,yes,
+19,Atlanta,Georgia Aquarium Parking Deck,"357 Luckie Street Northwest, Atlanta, GA 30313, United States of America",customers,multi-storey,yes,
+20,Atlanta,Lenox MARTA Station Park and Ride,"Lakeside Drive Northeast, Atlanta, GA 30326, United States of America",customers,surface,no,
+21,Atlanta,Atlanta Humane Society Guest Parking,"Edgehill Avenue Northwest, Atlanta, GA 30332, United States of America",permissive,surface,no,
+22,Atlanta,Promenade Parking,"15th Street Northeast, Atlanta, GA 30309, United States of America",yes,multi-storey,yes,
+23,Atlanta,SP+ Parking,"305 Ted Turner Drive Northwest, Atlanta, GA 30308, United States of America",yes,surface,yes,
+24,Atlanta,SP+ Parking,"17 Baker Street Northwest, Atlanta, GA 30308, United States of America",yes,surface,yes,
+0,Milwaukee,875 East Wisconsin Parking,"875 East Michigan Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,444.0
+1,Milwaukee,Daily/Hourly Parking Garage,"Hourly Parking Exit, Milwaukee, WI 53207, United States of America",yes,multi-storey,yes,
+2,Milwaukee,Plaza East Pavilion,"330 East Wells Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,749.0
+3,Milwaukee,Banana Lot,"651 East Buffalo Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,351.0
+4,Milwaukee,Gas Light Lot South,"626 East Wisconsin Avenue, Milwaukee, WI 53202, United States of America",yes,surface,yes,
+5,Milwaukee,Gas Light Garage,"730 North Jackson Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,213.0
+6,Milwaukee,Kenilworth Lot,"2139 North Prospect Avenue, Milwaukee, WI 53202, United States of America",yes,surface,yes,
+7,Milwaukee,Kenilworth Parking Structure,"2170 North Farwell Avenue, Milwaukee, WI 53202, United States of America",yes,underground,yes,39.0
+8,Milwaukee,War Memorial Center Lot,"750 North Lincoln Memorial Drive, Milwaukee, WI 53202, United States of America",yes,surface,yes,250.0
+9,Milwaukee,Viets Field Parking Structure,"1305 North Broadway Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,780.0
+10,Milwaukee,16th Street Parking Structure,"749 North 16th Street, Milwaukee, WI 53233, United States of America",yes,multi-storey,yes,
+11,Milwaukee,770 Structure,"750; 752; 754; 756; 758; 760; 762; 764; 766; 768; 770; 772; 774; 776; 778; 780; 782 North Jefferson Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,550.0
+12,Milwaukee,Water Street Lot,"333 North Water Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,135.0
+13,Milwaukee,411 Annex Parking,"520 North Milwaukee Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,523.0
+14,Milwaukee,Highland Avenue Structure,"1030 North 6th Street, Milwaukee, WI 53203, United States of America",yes,multi-storey,yes,776.0
+15,Milwaukee,Chase Tower Parking Garage,"525 North Water Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,728.0
+16,Milwaukee,Lewis Center,"616 East Clybourn Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,252.0
+17,Milwaukee,State Fair Park and Ride,"West Kearney Street, Milwaukee, WI 53214, United States of America",yes,surface,no,285.0
+18,Milwaukee,Bonnies Lot North,"843; 845; 847; 849; 851; 853; 855; 857; 859; 861; 863 North Plankinton Avenue, Milwaukee, WI 53203, United States of America",yes,surface,yes,66.0
+19,Milwaukee,Paulie's Place,"500 North Broadway Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,172.0
+20,Milwaukee,Broadway and Wells Lot,"792 North Broadway Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,26.0
+21,Milwaukee,Milwaukee Athletic Club Structure,"777 North Milwaukee Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,198.0
+22,Milwaukee,Edison Street Lot,"1301; 1303; 1305; 1307; 1309; 1311; 1313; 1315; 1317; 1319; 1321; 1323; 1325; 1327; 1329; 1331; 1333; 1335; 1337; 1339; 1341; 1343; 1345; 1347; 1349; 1351; 1353; 1355; 1357 North Edison Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,200.0
+23,Milwaukee,Lake Lot,"328 North Van Buren Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,1500.0
+24,Milwaukee,Third Ward Car Park,"330 North Broadway Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,56.0
+25,Milwaukee,Two-Fifty Garage,"721 North Broadway Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,427.0
+26,Milwaukee,Colby-Abbot Structure,"767 North Milwaukee Street, Milwaukee, WI 53202, United States of America",yes,multi-storey,yes,140.0
+27,Milwaukee,Impark,"123 East Knapp Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,
+28,Milwaukee,Water Street Lot,"1233 North Water Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,36.0
+29,Milwaukee,Lot #11,"1201 North Edison Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,84.0
+30,Milwaukee,Museum Center Park,"910 East Michigan Street, Milwaukee, WI 53202, United States of America",yes,underground,yes,1207.0
+31,Milwaukee,Pfister Structure,"East Mason Street, Milwaukee, WI 53203, United States of America",yes,multi-storey,yes,263.0
+32,Milwaukee,Milwaukee Public Market Parking,"400 North Water Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,
+33,Milwaukee,Farwell Lot,"2303 North Farwell Avenue, Milwaukee, WI 53211, United States of America",yes,surface,yes,
+34,Milwaukee,Plaza East Structure,"330 East Kilbourn Avenue, Milwaukee, WI 53202, United States of America",yes,underground,yes,479.0
+35,Milwaukee,Northwestern Mutual Parking Garage,"777 North Cass Street, Milwaukee, WI 53202, United States of America",private,multi-storey,no,
+36,Milwaukee,Amtrak parking,"South 6th Street, Milwaukee, WI 53221, United States of America",customers,surface,yes,
+37,Milwaukee,Potawatomi Hotel & Casino Parking Garage,"West Potawatomi Circle, Milwaukee, WI 53233, United States of America",customers,multi-storey,yes,1440.0
+38,Milwaukee,MSOE State Street C Lot,"429 East State Street, Milwaukee, WI 53202, United States of America",private,surface,no,
+39,Milwaukee,MSOE State Street B Lot,"429 East State Street, Milwaukee, WI 53202, United States of America",private,surface,no,
+40,Milwaukee,Colectivo Parking,"East Chambers Street, Milwaukee, WI 53212, United States of America",customers,surface,no,
+41,Milwaukee,Bally’s Lot,"1237 North Van Buren Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,
+42,Milwaukee,P,"921 East Erie Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,
+43,Milwaukee,Morel Parking,"South 2nd Street, Milwaukee, WI 53203, United States of America",customers,surface,no,
+44,Milwaukee,Lot E,"East Erie Street, Milwaukee, WI 53202, United States of America",private,surface,yes,
+45,Milwaukee,Italian Community Center Lot,"631 East Chicago Street, Milwaukee, WI 53202, United States of America",yes,surface,yes,
+46,Milwaukee,Badger Lot,"625 North James Lovell Street, Milwaukee, WI 53233, United States of America",yes,surface,yes,
+47,Milwaukee,Wells Fargo Lot,"610 North 8th Street, Milwaukee, WI 53233, United States of America",yes,surface,yes,110.0
+48,Milwaukee,Wisconsin Center District Parking Lot,"500 West Wells Street, Milwaukee, WI 53203, United States of America",private,multi-storey,yes,
+49,Milwaukee,Monthly Paid Parking,"North Farwell Avenue, Milwaukee, WI 53202, United States of America",customers,surface,yes,
+50,Milwaukee,Glorioso's Customer Parking,"East Brady Street, Milwaukee, WI 53202, United States of America",customers,surface,no,
+51,Milwaukee,The Rave Parking,"2407 West Michigan Street, Milwaukee, WI 53233, United States of America",customers,surface,yes,165.0
+52,Milwaukee,Prospect Parking Garage,"North Farwell Avenue, Milwaukee, WI 53201, United States of America",yes,multi-storey,Mo-Fr 03-19:00; Sa 03:00-15:00; Su 03:00-15:00,307.0
+0,Philadelphia,Parkway Building,"146-152 North Broad Street, Philadelphia, PA 19102, United States of America",yes,multi-storey,yes,403.0
+1,Philadelphia,Centennial District Intermodal Transportation Center,"Zoological Drive, Philadelphia, PA 19104, United States of America",customers,multi-storey,yes,683.0
+2,Philadelphia,Callowhill Center,"448 North 7th Street, Philadelphia, PA 19123, United States of America",customers,surface,yes,174.0
+3,Philadelphia,Constitution Health Plaza Garage,"1485 McKean Street, Philadelphia, PA 19145, United States of America",permissive,multi-storey,yes,357.0
+4,Philadelphia,Old City Parkominium,"231 North 2nd Street, Philadelphia, PA 19106, United States of America",private,multi-storey,yes,280.0
+5,Philadelphia,E-Z Parking,"38-50 North 3rd Street, Philadelphia, PA 19106, United States of America",yes,surface,yes,83.0
+6,Philadelphia,Construction,"Philadelphia, PA 19103, United States of America",customers,surface,yes,
+7,Philadelphia,Penn Medicine at Rittenhouse Lot 4,"Naudain Street, Philadelphia, PA 19146, United States of America",private,surface,yes,
+8,Philadelphia,Penn Medicine at Rittenhouse Lot 2,"Naudain Street, Philadelphia, PA 19146, United States of America",private,surface,yes,
+9,Philadelphia,Penn Medicine at Rittenhouse Lot 1,"Naudain Street, Philadelphia, PA 19146, United States of America",private,surface,yes,
+10,Philadelphia,Penn Medicine at Rittenhouse Lot 3,"Naudain Street, Philadelphia, PA 19146, United States of America",private,surface,yes,
+11,Philadelphia,Hopkinson House Garage,"604 South Washington Square, Philadelphia, PA 19106, United States of America",customers,underground,yes,
+12,Philadelphia,Holiday Inn Historic District Parking Garage,"400 Arch Street, Philadelphia, PA 19106, United States of America",private,multi-storey,yes,354.0
+13,Philadelphia,Boyds Parking,"1818 Chestnut Street, Philadelphia, PA 19103, United States of America",customers,surface,no,
+14,Philadelphia,Sonesta Hotel Garage,"1800 Market Street, Philadelphia, PA 19103, United States of America",customers,multi-storey,yes,
+15,Philadelphia,Convention Center Parking,"142 North Broad Street, Philadelphia, PA 19102, United States of America",private,multi-storey,yes,
+16,Philadelphia,DRWC Parking Lot - Lombard Circle,"Delaware River Trail, Philadelphia, PA 19106, United States of America",customers,surface,yes,220.0
+17,Philadelphia,3499 Civic Center Boulevard,"Civic Center Boulevard, Philadelphia, PA 19104, United States of America",private,multi-storey,yes,
+18,Philadelphia,NorthXNorthwest,"North 19th Street, Philadelphia, PA 19132, United States of America",private,multi-storey,yes,
+19,Philadelphia,Philadelphia Office of Fleet Management lot,"Gerritt Street, Philadelphia, PA 19147, United States of America",private,surface,no,
+20,Philadelphia,PPA Parking Lot,"723 Christian Street, Philadelphia, PA 19147, United States of America",yes,surface,yes,90.0
+21,Philadelphia,Pennsylvania Hospital - Deck 2,"Delancey Street, Philadelphia, PA 19106, United States of America",private,multi-storey,yes,
+22,Philadelphia,Morris Arboretum of the University of Pennsylvania,"Meadowbrook Avenue, Philadelphia, PA 19118, United States of America",customers,surface,no,
+23,Philadelphia,Parkway Lot A,"106 Green Lane, Philadelphia, PA 19127, United States of America",customers,surface,yes,
+24,Philadelphia,UPHS Medical Parking Garage,"West Service Drive, Philadelphia, PA 19104, United States of America",customers,multi-storey,yes,
+25,Philadelphia,Fox Chase Train Station PPA Parking Lot,"Rockwell Avenue, Philadelphia, PA 19111, United States of America",customers,surface,yes,
+26,Philadelphia,Pine Street Parking Lot,"Pennypack Park Trail, Philadelphia, PA 19115, United States of America",yes,surface,no,
+27,Philadelphia,Lloyd Hall / Art Museum Trailhead,"Waterworks Drive, Philadelphia, PA 19130, United States of America",yes,surface,no,
+28,Philadelphia,John Heinz Ntl. Wildlife Refuge Parking Lot,"Eastwick Trail, Philadelphia, PA 19079, United States of America",yes,surface,no,
+29,Philadelphia,John Heinz Ntl. Wildlife Refuge Parking Lot,"Lindbergh Boulevard, Philadelphia, PA 19079, United States of America",yes,surface,no,
+30,Philadelphia,John Heinz Ntl. Wildlife Refuge Parking Lot,"Eastwick Trail, Philadelphia, PA 19079, United States of America",yes,surface,no,
+31,Philadelphia,Parking C,"3401 Civic Center Boulevard, Philadelphia, PA 19104, United States of America",permissive,underground,yes,
+32,Philadelphia,Wissahickon Valley Park Trail Parking,"Orange Trail, Philadelphia, PA 19118, United States of America",yes,surface,no,
+33,Philadelphia,Wissahickon Valley Park Trail Parking,"Bells Mill Road, Philadelphia, PA 19128, United States of America",yes,surface,no,
+0,Phoenix,The Parking Spot 1,"3750 East Washington Street, Phoenix, AZ 85034, United States of America",customers,surface,yes,
+1,Phoenix,Arizona Center Parking,"North 4th Street, Phoenix, AZ 85004, United States of America",yes,multi-storey,yes,
+2,Phoenix,Heritage Park Garage,"East Monroe Street, Phoenix, AZ 85004, United States of America",yes,multi-storey,yes,
+3,Phoenix,Chase Tower Parking,"East Van Buren Street, Phoenix, AZ 85004, United States of America",yes,multi-storey,yes,
+4,Phoenix,Ace Parking,"East Roosevelt Street, Phoenix, AZ 85004, United States of America",yes,multi-storey,yes,
+5,Phoenix,CVS parking,"North 1st Street, Phoenix, AZ 85004, United States of America",customers,surface,no,
+6,Phoenix,4041 Central Plaza Garage,"4041 North Central Avenue, Phoenix, AZ 85013, United States of America",yes,multi-storey,yes,"1,400"
+7,Phoenix,Equestrian Trailer Parking,"To Equestrian Parking Area, Phoenix, AZ, United States of America",yes,surface,no,
+8,Phoenix,Emery Henderson Trailhead - Black Canyon Trail,"Black Canyon Trail, Phoenix, AZ 85087, United States of America",yes,surface,no,
+9,Phoenix,Lot A,"East Farrington Lane, Phoenix, AZ 85013, United States of America",yes,surface,no,116
+10,Phoenix,Lot C,"North Silvestre Herrera Way, Phoenix, AZ 85013, United States of America",yes,surface,no,
+11,Phoenix,Lot C,"North Silvestre Herrera Way, Phoenix, AZ 85013, United States of America",yes,surface,no,
+12,Phoenix,Lot E,"North Silvestre Herrera Way, Phoenix, AZ 85013, United States of America",yes,surface,no,
