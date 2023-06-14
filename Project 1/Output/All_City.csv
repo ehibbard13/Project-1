@@ -1,4 +1,4 @@
-,city,name,address,access,type,fee,capacity
+city ID,city,name,address,access,type,fee,capacity
 0,New York,East River Plaza Garage,"520 East 117th Street, New York, NY 10035, United States of America",yes,multi-storey,yes,
 1,New York,Edison ParkFast,"375 Lafayette Street, New York, NY 10003, United States of America",yes,surface,yes,
 2,New York,"Alfred Car Park, LLC","161 West 61st Street, New York, NY 10023, United States of America",yes,underground,yes,140.0
@@ -15,81 +15,6 @@
 13,New York,60 Riverside Blvd,"400 West 63rd Street, New York, NY 10069, United States of America",yes,underground,yes,118.0
 14,New York,SP+ Parking,"200 East 61st Street, New York, NY 10065, United States of America",customers,underground,yes,
 15,New York,Skyport,"2420 FDR Drive, New York, NY 10002, United States of America",yes,multi-storey,yes,
-0,Los Angeles,Parking Lot F5,"Matador Way, Los Angeles, CA 91325, United States of America",customers,surface,yes,
-1,Los Angeles,P-3,"World Way, Los Angeles, CA 90009, United States of America",yes,multi-storey,yes,
-2,Los Angeles,P-4,"World Way, Los Angeles, CA 90245, United States of America",yes,multi-storey,yes,
-3,Los Angeles,Metro Park and Ride,"South La Cienega Boulevard, Los Angeles, CA 90250, United States of America",yes,multi-storey,no,
-4,Los Angeles,Restricted Lot F4,"Vincennes Street, Los Angeles, CA 91330, United States of America",private,surface,yes,
-5,Los Angeles,P-2B,"West Way, Los Angeles, CA 90009, United States of America",yes,multi-storey,yes,
-6,Los Angeles,Parking 2,"Charles E Young Drive East, Los Angeles, CA 90095, United States of America",yes,multi-storey,yes,
-7,Los Angeles,Parking 8,"501-555 Strathmore Place, Los Angeles, CA 90024, United States of America",yes,multi-storey,yes,
-8,Los Angeles,Parking E,"Tiverton Drive, Los Angeles, CA 90095, United States of America",yes,multi-storey,yes,
-9,Los Angeles,Upper Lot,"Mineral Springs Trail, Los Angeles, CA 90039, United States of America",yes,surface,no,
-10,Los Angeles,Lower Lot,"Lower Old Zoo Trail, Los Angeles, CA 90039, United States of America",yes,surface,no,
-11,Los Angeles,Admissions Parking Lot 1,"The Mall, Los Angeles, CA 91371, United States of America",permissive,surface,yes,
-12,Los Angeles,Lot G7,"Zelzah Avenue, Los Angeles, CA 91325, United States of America",customers,surface,yes,
-13,Los Angeles,Faculty/Staff Lot F2,"Bertrand Avenue, Los Angeles, CA 91330, United States of America",permissive,surface,yes,
-14,Los Angeles,B3 Parking Structure,"Sierra Walk, Los Angeles, CA 91330, United States of America",customers,multi-storey,yes,
-15,Los Angeles,Park 'N Fly,"Sepulveda Boulevard, Los Angeles, CA 90009, United States of America",customers,surface,yes,
-16,Los Angeles,Zoo Parking,"Main Trail, Los Angeles, CA 91201, United States of America",customers,surface,no,500.0
-17,Los Angeles,Autry Museum Parking,"Western Heritage Way, Los Angeles, CA 91201, United States of America",yes,surface,no,
-18,Los Angeles,Metro Park and Ride,"Main Street, Los Angeles, CA 91608, United States of America",yes,surface,yes,
-19,Los Angeles,Union Station Visitor Lot B,"Union Station Driveway, Los Angeles, CA 90086, United States of America",customers,surface,yes,
-20,Los Angeles,Rosecrans Park And Ride,"Rosecrans Avenue, Los Angeles, CA 90248, United States of America",permissive,surface,yes,342.0
-21,Los Angeles,Manchester Park And Ride,"West Manchester Avenue, Los Angeles, CA 90044, United States of America",permissive,surface,yes,127.0
-22,Los Angeles,Porter Ranch Park And Ride,"Apeta Momonga Mission Trail, West Chatsworth, CA 91311, United States of America",permissive,surface,yes,177.0
-23,Los Angeles,Farmers,"Owensmouth Avenue, Los Angeles, CA 91367, United States of America",private,multi-storey,yes,
-24,Los Angeles,Faculty/Staff Lot D5,"Jacaranda Walk, Los Angeles, CA 91330, United States of America",private,surface,yes,
-25,Los Angeles,ADA Parking Lot E6,"ADA Parking, Los Angeles, CA 91330, United States of America",customers,surface,yes,
-26,Los Angeles,Faculty/Staff Lot B4,"Darby Avenue, Los Angeles, CA 91330, United States of America",permissive,surface,yes,
-27,Los Angeles,Faculty/Staff Parking Lot D6,"ADA Parking, Los Angeles, CA 91330, United States of America",permissive,surface,yes,
-28,Los Angeles,Parking Lot E6,"ADA Parking, Los Angeles, CA 91330, United States of America",customers,surface,yes,
-29,Los Angeles,Student Lot B6,"Darby Avenue, Los Angeles, CA 91330, United States of America",customers,surface,yes,
-30,Los Angeles,Lot C6,"Halsted Street, Los Angeles, CA 91325, United States of America",private,surface,yes,
-31,Los Angeles,Restricted Lot F3,"Bertrand Avenue, Los Angeles, CA 91330, United States of America",private,surface,yes,11.0
-32,Los Angeles,Student Lot B3,"Darby Avenue, Los Angeles, CA 91330, United States of America",customers,surface,yes,
-33,Los Angeles,Lot E9,"Lindley Avenue, Los Angeles, CA 91325, United States of America",private,surface,yes,
-34,Los Angeles,Lot F7,"Matador Way, Los Angeles, CA 91325, United States of America",private,surface,yes,
-35,Los Angeles,Lot G7,"Zelzah Avenue, Los Angeles, CA 91325, United States of America",customers,surface,yes,
-36,Los Angeles,Lot 35,"Ashton Avenue, Los Angeles, CA 90024, United States of America",yes,surface,yes,
-37,Los Angeles,Skirball & Mulholland Park And Ride,"Skirball Center Drive, Los Angeles, CA 90049, United States of America",permissive,surface,yes,26.0
-38,Los Angeles,Metro Park and Ride,"Lankershim Boulevard, Los Angeles, CA 91601, United States of America",yes,surface,yes,
-39,Los Angeles,Metro Park and Ride,"Fair Avenue, Los Angeles, CA 91601, United States of America",yes,surface,yes,
-40,Los Angeles,Lot 2,"Downey Way, Los Angeles, CA 90089, United States of America",yes,surface,yes,
-41,Los Angeles,Lot G10,"Zelzah Avenue, Los Angeles, CA 91325, United States of America",customers,surface,yes,
-42,Los Angeles,Jules Stein Parking,"Stein Plaza, Los Angeles, CA 90095, United States of America",customers,surface,yes,
-43,Los Angeles,Lot 6,"Lagoon Drive, Los Angeles, CA 90710, United States of America",customers,surface,yes,
-44,Los Angeles,Bank of America Parking,"14701 Ventura Boulevard, Los Angeles, CA 91403, United States of America",customers,surface,no,
-45,Los Angeles,Trippet Ranch Parking Lot,"Entrada Road, Topanga, CA 90290, United States of America",yes,surface,yes,
-46,Los Angeles,Downey Way Parking Structure,"3667 West 36th Place, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
-47,Los Angeles,Jefferson Blvd. Parking Structure,"West 34th Street, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
-48,Los Angeles,Royal Street Parking Structure,"649 West Jefferson Boulevard, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
-49,Los Angeles,McCarthy Way Parking Structure,"McCarthy Way, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
-50,Los Angeles,Broadway Mall Parking,"450;440 South Broadway, Los Angeles, CA 90013, United States of America",yes,multi-storey,yes,
-51,Los Angeles,Grand Central Square Parking Garage,"308 South Hill Street, Los Angeles, CA 90013, United States of America",yes,multi-storey,yes,
-52,Los Angeles,Metro Parking,"Crenshaw Boulevard, Los Angeles, CA 90016, United States of America",yes,multi-storey,no,
-53,Los Angeles,Studio City Public Parking,"Valleyheart Drive, Los Angeles, CA 91604, United States of America",yes,multi-storey,yes,400.0
-54,Los Angeles,B5 Parking Structure,"West University Drive, Los Angeles, CA 91330, United States of America",customers,multi-storey,yes,
-55,Los Angeles,Parking Structure G3,"Sierra Walk, Los Angeles, CA 91330, United States of America",customers,multi-storey,yes,300.0
-56,Los Angeles,Farmers,"West Valley Way, Los Angeles, CA 91367, United States of America",private,multi-storey,yes,
-57,Los Angeles,Public Parking,"Alley ‎80507, Los Angeles, CA 91303, United States of America",yes,surface,no,35.0
-58,Los Angeles,Green Thumb parking,"Alley ‎80980, Los Angeles, CA 91303, United States of America",customers,surface,no,
-59,Los Angeles,Wells Fargo Parking,"Alley ‎80979, Los Angeles, CA 91303, United States of America",customers,surface,no,
-60,Los Angeles,Follow Your Heart parking,"Alley ‎89090, Los Angeles, CA 91303, United States of America",customers,surface,no,
-61,Los Angeles,Centenary United Methodist Church Parking Lot,"South Central Avenue, Los Angeles, CA 90013, United States of America",private,surface,yes,120.0
-62,Los Angeles,Getty Center Parking,"Getty Center Drive, Los Angeles, CA 90049, United States of America",yes,underground,yes,
-63,Los Angeles,City of Los Angeles Lot 7,"140 Judge John Aiso Street, Los Angeles, CA 90013, United States of America",yes,surface,yes,
-64,Los Angeles,metered,"Darby Avenue, Los Angeles, CA 91330, United States of America",yes,surface,yes,25.0
-65,Los Angeles,USC Parking,"West 30th Street, Los Angeles, CA 90007, United States of America",permit,surface,yes,
-66,Los Angeles,Vermont & WIlshire Parking Lot -LADOT Facility No. 691,"682 South Vermont Avenue, Los Angeles, CA 90005, United States of America",permit,surface,yes,65.0
-67,Los Angeles,Sepulveda Station Parking Lot,"15430 Erwin Street, Los Angeles, CA 91411, United States of America",yes,surface,no,260.0
-68,Los Angeles,O'Melveny Park Parking,"O'Melveny Park, Los Angeles, CA 91312, United States of America",permissive,surface,no,35.0
-69,Los Angeles,Trader Joe's Surplus Parking,"Hyperion Avenue, Los Angeles, CA 90227, United States of America",customers,surface,no,
-70,Los Angeles,Union Station Visitor Lot D,"Union Station Underground Walkway, Los Angeles, CA 90086, United States of America",customers,surface,yes,
-71,Los Angeles,LAX Economy Parking,"6100 94th Street, Los Angeles, CA 90045, United States of America",customers,multi-storey,yes,
-72,Los Angeles,Cabrillo Marina Berth 33,"224 Watchorn Walk, Los Angeles, CA 90731, United States of America",private,surface,yes,200.0
-73,Los Angeles,Parking 4,"Westwood Plaza, Los Angeles, CA 90095, United States of America",private,underground,yes,
-74,Los Angeles,USC Parking,"West 32nd Street, Los Angeles, CA 90089, United States of America",permit,multi-storey,yes,
 0,Chicago,Washington-Madison-Wells Self Park,"172 West Madison Street, Chicago, IL 60602, United States of America",yes,multi-storey,yes,
 1,Chicago,Midway Park & Ride,"West 59th Street, Chicago, IL 60629, United States of America",yes,surface,yes,299.0
 2,Chicago,Midway Park Saver,"4607 West 59th Street, Chicago, IL 60629, United States of America",yes,surface,yes,
