@@ -15,6 +15,18 @@
 13,New York,60 Riverside Blvd,"400 West 63rd Street, New York, NY 10069, United States of America",yes,underground,yes,118.0
 14,New York,SP+ Parking,"200 East 61st Street, New York, NY 10065, United States of America",customers,underground,yes,
 15,New York,Skyport,"2420 FDR Drive, New York, NY 10002, United States of America",yes,multi-storey,yes,
+16,New York,MPG Parking Javits Center,"High Line, New York, NY 10199, United States of America",customers,surface,yes,
+17,New York,101 West End Parking,"101 West End Avenue, New York, NY 10069, United States of America",yes,underground,yes,166.0
+18,New York,51402,"9 West 31st Street, New York, NY 10001, United States of America",customers,underground,yes,
+19,New York,MPG Manhattan Parking: MP Hudson,"West 30th Street, New York, NY 10001, United States of America",yes,underground,yes,
+20,New York,Quik Park,"1 Water Street, New York, NY 10004, United States of America",customers,underground,yes,
+21,New York,Speedy Park,"Warren Street, New York, NY 10007, United States of America",customers,surface,yes,
+22,New York,Hippodrome Parking,"1120 6th Avenue, New York, NY 10036, United States of America",yes,underground,yes,
+23,New York,Icon Parking,"700 6th Avenue, New York, NY 10019, United States of America",yes,underground,yes,
+24,New York,Vincent 15 Parking LLC,"111 West 15th Street, New York, NY 10011, United States of America",yes,garage,yes,
+25,New York,24 Hour Parking,"352 West 58th Street, New York, NY 10019, United States of America",customers,multi-storey,yes,
+26,New York,Metropolitan Museum,"Central Park Outer Loop, New York, NY 10075, United States of America",yes,underground,yes,
+27,New York,Auto Motion,"148 East 24th Street, New York, NY 10010, United States of America",yes,underground,yes,
 0,Los Angeles,Parking Lot F5,"Matador Way, Los Angeles, CA 91325, United States of America",customers,surface,yes,
 1,Los Angeles,P-3,"World Way, Los Angeles, CA 90009, United States of America",yes,multi-storey,yes,
 2,Los Angeles,P-4,"World Way, Los Angeles, CA 90245, United States of America",yes,multi-storey,yes,
@@ -98,6 +110,55 @@
 5,Chicago,Airways Parking,"4532 West 55th Street, Chicago, IL 60632, United States of America",yes,surface,yes,
 6,Chicago,Kensington / 115th Street Station Parking Lot,"South Front Avenue, Chicago, IL 60628, United States of America",yes,surface,yes,84.0
 7,Chicago,Hegewisch NICTD #1,"South Buffalo Avenue, Chicago, IL 60633, United States of America",yes,surface,yes,337.0
+8,Chicago,Hegewisch Accessible Parking,"South Brainard Avenue, Chicago, IL 60633, United States of America",permit,surface,yes,12.0
+9,Chicago,Economy Lot F,"Brodie Road, Chicago, IL 60018, United States of America",yes,rooftop,yes,
+10,Chicago,C Suites,"West Warren Boulevard, Chicago, IL 60612, United States of America",customers,surface,yes,
+11,Chicago,Midway Airport Terminal Parking Garage,"5701 South Cicero Avenue, Chicago, IL 60638, United States of America",yes,multi-storey,yes,
+12,Chicago,McCormick Place Parking Lot B,"Adlai Stevenson Expressway, Chicago, IL 60616, United States of America",private,surface,yes,
+13,Chicago,O'Hare Economy Lot H,"Mannheim Road, Chicago, IL 60018, United States of America",yes,surface,yes,
+14,Chicago,O'Hare Economy Lot E (Closed),"Coffey Road, Chicago, IL 60666, United States of America",no,surface,yes,
+15,Chicago,Adler Planetarium Lot,"South Linn White Drive, Chicago, IL 60605, United States of America",customers,surface,yes,
+16,Chicago,VIP Lot D,"West 35th Street, Chicago, IL 60632, United States of America",customers,surface,yes,
+17,Chicago,Harlem Park & Ride,"West Higgins Avenue, Chicago, IL 60656, United States of America",yes,surface,yes,53.0
+18,Chicago,Lot F,"West 38th Street, Chicago, IL 60609, United States of America",customers,surface,yes,
+19,Chicago,Kimball Park & Ride,"West Lawrence Avenue, Chicago, IL 60625, United States of America",yes,surface,yes,73.0
+20,Chicago,E Uber,"West Warren Boulevard, Chicago, IL 60612, United States of America",private,surface,yes,
+21,Chicago,Ravenswood Medical Center,"4501-4523 North Damen Avenue, Chicago, IL 60640, United States of America",customers,multi-storey,yes,
+22,Chicago,Jewel-Osco parking lot,"West Roscoe Street, Chicago, IL 60618, United States of America",customers,surface,no,
+23,Chicago,Lot G,"West 33rd Street, Chicago, IL 60616, United States of America",customers,surface,yes,3000.0
+24,Chicago,Lot A,"South Wentworth Avenue, Chicago, IL 60616, United States of America",customers,surface,yes,
+25,Chicago,Midway Airport Economy Garage,"5050 West 55th Street, Chicago, IL 60638, United States of America",yes,multi-storey,yes,
+26,Chicago,Belmont Central Parking,"3140 North Central Avenue, Chicago, IL 60634, United States of America",yes,multi-storey,no,265.0
+27,Chicago,Midway Airport Economy Lot,"5050 West 55th Street, Chicago, IL 60638, United States of America",yes,surface,yes,
+28,Chicago,Midway Airport Daily Lot,"South Cicero Avenue, Chicago, IL 60638, United States of America",yes,surface,yes,
+29,Chicago,Chinatown Parking,"South Archer Avenue, Chicago, IL 60616, United States of America",customers,surface,yes,
+30,Chicago,State-Kinzie-Wabash Self Park,"401 North State Street, Chicago, IL 60654, United States of America",yes,multi-storey,yes,
+31,Chicago,Ashland/63rd Park & Ride,"West 64th Street, Chicago, IL 60636, United States of America",yes,surface,yes,235.0
+32,Chicago,Lot L,"West 38th Street, Chicago, IL 60609, United States of America",customers,surface,yes,
+33,Chicago,Western Park & Ride,"South Artesian Avenue, Chicago, IL 60632, United States of America",yes,surface,yes,200.0
+34,Chicago,93rd St. (South Chicago) Station Parking Lot,"South Harbor Avenue, Chicago, IL 60617, United States of America",yes,surface,yes,665.0
+35,Chicago,Presidential Towers Garage,"32 South Jefferson Street, Chicago, IL 60606, United States of America",customers,multi-storey,yes,
+36,Chicago,Garfield Park & Ride,"South Prairie Avenue, Chicago, IL 60637, United States of America",yes,surface,yes,117.0
+37,Chicago,Park Plaza Parking Lot,"North Whipple Street, Chicago, IL 60645, United States of America",private,surface,no,
+38,Chicago,Park Plaza Parking Lot,"North Whipple Street, Chicago, IL 60645, United States of America",private,surface,no,
+39,Chicago,Kiss and Fly O'Hare Airport,"Coffey Road, Chicago, IL 60666, United States of America",yes,surface,no,18.0
+40,Chicago,35th/Archer Park & Ride,"South Archer Avenue, Chicago, IL 60608, United States of America",yes,surface,yes,69.0
+41,Chicago,Halsted Park & Ride,"South Archer Avenue, Chicago, IL 60616, United States of America",customers,surface,yes,31.0
+42,Chicago,Public Parking,"West Ontario Street, Chicago, IL 60654, United States of America",yes,surface,yes,
+43,Chicago,Pulaski Park & Ride,"South Keeler Avenue, Chicago, IL 60629, United States of America",yes,surface,yes,390.0
+44,Chicago,Kedzie Park & Ride,"West 48th Place, Chicago, IL 60632, United States of America",yes,surface,yes,157.0
+45,Chicago,Campus South Parking,"6054 South Drexel Avenue, Chicago, IL 60637, United States of America",yes,multi-storey,yes,
+46,Chicago,Kiss and Ride,"241, Chicago, IL 60656, United States of America",yes,surface,no,
+47,Chicago,Cumberland Park & Ride,"Kennedy Expressway, Chicago, IL 60656, United States of America",yes,multi-storey,yes,1633.0
+48,Chicago,Club/Premium,"West Adams Street, Chicago, IL 60612, United States of America",customers,surface,yes,
+49,Chicago,Club/Premium,"West Warren Boulevard, Chicago, IL 60612, United States of America",customers,surface,yes,
+50,Chicago,Club/Premium,"West Warren Boulevard, Chicago, IL 60612, United States of America",customers,surface,yes,
+51,Chicago,O'Hare Cell Phone Lot,"Bessie Coleman Drive, Chicago, IL 60666, United States of America",yes,surface,no,
+52,Chicago,Quick–Turn-Around,"Brodie Road, Chicago, IL 60018, United States of America",yes,multi-storey,yes,
+53,Chicago,Erie Ontario Parking D,"321 East Erie Street, Chicago, IL 60611, United States of America",yes,multi-storey,yes,
+54,Chicago,Erie Ontario Parking D,"321 East Erie Street, Chicago, IL 60611, United States of America",yes,multi-storey,yes,
+55,Chicago,Erie Ontario Parking C,"321 East Erie Street, Chicago, IL 60611, United States of America",yes,multi-storey,yes,
+56,Chicago,A,"Chicago, IL 60644, United States of America",private,surface,yes,
 0,Houston,MFAH Parking Garage,"5600 Fannin Street, Houston, TX 77005, United States of America",customers,multi-storey,yes,
 1,Houston,McKinney Garage,"McKinney Street, Houston, TX 77010, United States of America",yes,multi-storey,yes,
 2,Houston,Parking Lot E,"Hermann Park Drive, Houston, TX 77004, United States of America",yes,surface,no,
