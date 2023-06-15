@@ -1,0 +1,101 @@
+city ID,city,capacity
+2,New York,140.0
+4,New York,200.0
+5,New York,150.0
+6,New York,209.0
+7,New York,301.0
+8,New York,113.0
+9,New York,721.0
+11,New York,104.0
+12,New York,320.0
+13,New York,118.0
+17,New York,166.0
+44,Los Angeles,500.0
+48,Los Angeles,342.0
+49,Los Angeles,127.0
+50,Los Angeles,177.0
+59,Los Angeles,11.0
+65,Los Angeles,26.0
+81,Los Angeles,400.0
+83,Los Angeles,300.0
+85,Los Angeles,35.0
+89,Los Angeles,120.0
+92,Los Angeles,25.0
+94,Los Angeles,65.0
+95,Los Angeles,260.0
+96,Los Angeles,35.0
+100,Los Angeles,200.0
+104,Chicago,299.0
+106,Chicago,592.0
+107,Chicago,1220.0
+109,Chicago,84.0
+110,Chicago,337.0
+111,Chicago,12.0
+120,Chicago,53.0
+122,Chicago,73.0
+126,Chicago,3000.0
+129,Chicago,265.0
+134,Chicago,235.0
+136,Chicago,200.0
+137,Chicago,665.0
+139,Chicago,117.0
+142,Chicago,18.0
+143,Chicago,69.0
+144,Chicago,31.0
+146,Chicago,390.0
+147,Chicago,157.0
+150,Chicago,1633.0
+165,Houston,1155.0
+167,Houston,880.0
+174,Houston,100.0
+180,Houston,150.0
+181,Houston,300.0
+182,Houston,800.0
+184,Houston,450.0
+187,Houston,17.0
+201,Atlanta,611.0
+207,Atlanta,550.0
+213,Atlanta,200.0
+221,Milwaukee,444.0
+223,Milwaukee,749.0
+224,Milwaukee,351.0
+226,Milwaukee,213.0
+228,Milwaukee,39.0
+229,Milwaukee,250.0
+230,Milwaukee,780.0
+232,Milwaukee,550.0
+233,Milwaukee,135.0
+234,Milwaukee,523.0
+235,Milwaukee,776.0
+236,Milwaukee,728.0
+237,Milwaukee,252.0
+238,Milwaukee,285.0
+239,Milwaukee,66.0
+240,Milwaukee,172.0
+241,Milwaukee,26.0
+242,Milwaukee,198.0
+243,Milwaukee,200.0
+244,Milwaukee,1500.0
+245,Milwaukee,56.0
+246,Milwaukee,427.0
+247,Milwaukee,140.0
+249,Milwaukee,36.0
+250,Milwaukee,84.0
+251,Milwaukee,1207.0
+252,Milwaukee,263.0
+255,Milwaukee,479.0
+258,Milwaukee,1440.0
+268,Milwaukee,110.0
+272,Milwaukee,165.0
+273,Milwaukee,307.0
+274,Philadelphia,403.0
+275,Philadelphia,683.0
+276,Philadelphia,174.0
+277,Philadelphia,357.0
+278,Philadelphia,280.0
+279,Philadelphia,83.0
+286,Philadelphia,354.0
+290,Philadelphia,220.0
+294,Philadelphia,90.0
+314,Phoenix,1400.0
+317,Phoenix,116.0
