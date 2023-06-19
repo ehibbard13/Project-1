@@ -126,8 +126,8 @@ finds that there is no correlation between the population of a city and the capa
 ---
 
  ## Links 
- [How to grab 'mode' in python](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html)
- [How to create a multi-bar graph](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/)
- [How to scale png image in python](https://stackoverflow.com/questions/55942693/how-do-i-save-the-entire-graph-without-it-being-cut-off)
- [How to change the y-axis number in a scatter plot](https://stackoverflow.com/questions/68468307/how-do-i-change-le6-to-1000000-in-matplotlib)
- [How to use the idxmax() function](https://www.tutorialspoint.com/python-pandas-find-the-maximum-value-of-a-column-and-return-its-corresponding-row-values#:~:text=Python%20Pandas%20%E2%80%93%20Find%20the%20maximum,return%20its%20corresponding%20row%20values&text=To%20find%20the%20maximum%20value,idxmax()%5D)
+ [How to grab 'mode' in python](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html)  
+ [How to create a multi-bar graph](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/)  
+ [How to scale png image in python](https://stackoverflow.com/questions/55942693/how-do-i-save-the-entire-graph-without-it-being-cut-off)  
+ [How to change the y-axis number in a scatter plot](https://stackoverflow.com/questions/68468307/how-do-i-change-le6-to-1000000-in-matplotlib)  
+ [How to use the idxmax() function](https://www.tutorialspoint.com/python-pandas-find-the-maximum-value-of-a-column-and-return-its-corresponding-row-values#:~:text=Python%20Pandas%20%E2%80%93%20Find%20the%20maximum,return%20its%20corresponding%20row%20values&text=To%20find%20the%20maximum%20value,idxmax()%5D)  
