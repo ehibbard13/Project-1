@@ -43,9 +43,7 @@ finds that there is no correlation between the population of a city and the capa
       **Philadelphia** : customer's  
       **Phoenix** : public  
 
-![alt text][logo]
-
-[logo] : https://github.com/ehibbard13/Project-1/blob/main/Project%201/Output/Parking_Type.png
+![alt text](https://github.com/ehibbard13/Project-1/blob/main/Project%201/Output/Parking_Type.png)
 
   2. **What is the mean, median, and mode of parking capacity for each city?**
      **What are the potential outliers?**
