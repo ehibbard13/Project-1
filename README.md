@@ -11,6 +11,21 @@ we came up with. At the end, we came up with a hypothesis and tested to see if i
 
 ---
 
+## Analysis
+
+In our findings of parking lots across 10 of the most populated cities in the US, we found data associated with  
+parking types, parking fee, access types, capacity, and how this all correlates to the population density of an area.   
+Our initial thought going into this was the more dense an area, their parking structures would most likely be bigger   
+and/or be multi-story. Surprisingly, multi-story was not one of the top parking type for any city. The most common   
+parking type across all cities was `underground` and `surface` parking. Another one of our findings was the most   
+common access type was `public`. This makes sense since parking lots are widley accessible across the country and   
+many are open to the public for free. The next two most common parking types across the cities were `customer` and  
+`private`. This also makes sense because some places to park come with a fee or specialized parking. Lastly, our  
+hypothesis tested if there was any correlation between the population density and the parking lots capacity and our  
+findings showed there was little to no correlation between the two[1^].
+
+---
+
 ## Hypothesis : Does a city’s population affect the capacity of a parking lot?
 
 *Alternative* : If a city’s population is related to the capacity of a parking lot, then a city with a higher   
@@ -90,4 +105,29 @@ finds that there is no correlation between the population of a city and the capa
 
 
 
+      
 <img width="966" alt="Screenshot 2023-06-19 at 4 34 53 PM" src="https://github.com/ehibbard13/Project-1/assets/130424499/36245dc8-2825-452c-bd8d-bce807ac4d4d">
+
+
+   * **How does the population of a city affect the parking type?**
+     
+     * The two most common types of parking across the cities are `underground` and `surface`. Since we took data
+       from the *top 10 most populated cities in the US*, we can assume that the lowest density in this list would
+       be more than most urban cities across the country. However, from our data, the cities that have more density
+       of people offer more underground parking and the citites with less density of people offer more surface
+       type parking. This makes sense because cities with more people in it need extra space for parking. If there
+       are already buildings on the surface, a great way to save space would be to have parking mostly underground
+       and vis versa.
+
+ ---
+ 
+[1^]:  the data that we collected from each city is not equal in size and will render some biased or scewed findings.
+
+---
+
+ ## Links 
+ [How to grab 'mode' in python](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html)
+ [How to create a multi-bar graph](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/)
+ [How to scale png image in python](https://stackoverflow.com/questions/55942693/how-do-i-save-the-entire-graph-without-it-being-cut-off)
+ [How to change the y-axis number in a scatter plot](https://stackoverflow.com/questions/68468307/how-do-i-change-le6-to-1000000-in-matplotlib)
+ [How to use the idxmax() function](https://www.tutorialspoint.com/python-pandas-find-the-maximum-value-of-a-column-and-return-its-corresponding-row-values#:~:text=Python%20Pandas%20%E2%80%93%20Find%20the%20maximum,return%20its%20corresponding%20row%20values&text=To%20find%20the%20maximum%20value,idxmax()%5D)
