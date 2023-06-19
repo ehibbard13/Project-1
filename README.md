@@ -27,11 +27,24 @@ finds that there is no correlation between the population of a city and the capa
 
  ## Questions
  
- 1. Which parking type is most common (per city and overall)?
-    Overall, the most common type of parking for all 10 cities is public('yes') parking.  
-    For each city, the most commmon parking type is...  
-    **New York** : public  
-    **Los Angeles** :  
+ 1. **Which parking type is most common (per city and overall)?**
+    
+    * Overall, the most common type of parking for all 10 cities is **public**(*'yes'*) parking.  
 
+    * For each city, the most commmon parking type is...  
+      **New York** : public  
+      **Los Angeles** :  public
+      **Chicago** : public
+      **Houston** : customer's
+      **Fort Worth** : private
+      **Miami** : public
+      **Atlanta** : customer's
+      **Milwaukee** : public
+      **Philadelphia** : customer's
+      **Phoenix** : public
 
+  2. **What is the mean, median, and mode of parking capacity for each city?**
+     **What are the potential outliers?**
+
+     
 
