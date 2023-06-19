@@ -45,8 +45,20 @@ finds that there is no correlation between the population of a city and the capa
 
 ![alt text](https://github.com/ehibbard13/Project-1/blob/main/Project%201/Output/Parking_Type.png)
 
-  2. **What is the mean, median, and mode of parking capacity for each city?**
+  2. **What is the mean, median, and mode of parking capacity for each city?**  
      **What are the potential outliers?**
+
+     | **City**    | **Mean**  | **Median** | **Mode** |
+     |:-----------:|:---------:|:----------:|:--------:|
+     | New York    | 231.090909 | 166.0	    | 140.0    |
+     | Chicago     | 472.500000	| 217.5     | 299.0    |
+     | Los Angeles	| 174.866667 | 127.0     | 35.0     |
+     | Phoenix     | 758.000000 | 758.0     | 1400.0   |
+     | Milwaukee   | 404.718750 | 257.5     | 444.0    |
+     | Houston     | 481.500000 | 375.0     | 1155.0   |
+     | Philadelphia| 293.777778 | 280.0     | 403.0    |
+     | Atlanta     | 453.666667 | 550.0     | 611.0    |
+
 
      
 
