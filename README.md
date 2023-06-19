@@ -22,7 +22,7 @@ common access type was `public`. This makes sense since parking lots are widley 
 many are open to the public for free. The next two most common parking types across the cities were `customer` and  
 `private`. This also makes sense because some places to park come with a fee or specialized parking. Lastly, our  
 hypothesis tested if there was any correlation between the population density and the parking lots capacity and our  
-findings showed there was little to no correlation between the two[1^].
+findings showed there was little to no correlation between the two[^1].
 
 ---
 
@@ -121,7 +121,7 @@ finds that there is no correlation between the population of a city and the capa
 
  ---
  
-[1^]:  the data that we collected from each city is not equal in size and will render some biased or scewed findings.
+[^1]:  the data that we collected from each city is not equal in size and will render some biased or scewed findings.
 
 ---
 
