@@ -123,7 +123,6 @@ finds that there is no correlation between the population of a city and the capa
  
 [^1]:  the data that we collected from each city is not equal in size and will render some biased or scewed findings.
 
----
 
  ## Links 
  [How to grab 'mode' in python](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html)  
