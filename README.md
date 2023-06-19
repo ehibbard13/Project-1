@@ -69,8 +69,25 @@ finds that there is no correlation between the population of a city and the capa
        * **Milwaukee's** *potential outliers are* -447.75 : 1116.25  
        * **Houston's** *potential outliers are* -886.25 : 1843.75  
        * **Philadelphia's** *potential outliers are* -100.5 : 631.5  
-       * **Atlanta's** *potential outliers are* 66.75 : 888.75  
+       * **Atlanta's** *potential outliers are*  66.75 : 888.75  
          
 ![alt text](https://github.com/ehibbard13/Project-1/blob/main/Project%201/Output/Capacity_BoxPlot.png)
+
+
+3. **What parking type is most common in each city?**
+
+    | **City**    | **Parking Type**  |
+    |:-----------:|:-----------------:|
+    | New York    | underground       |
+    | Chicago     | surface           | 
+    | Los Angeles	| underground       | 
+    | Phoenix     | surface           |
+    | Fort Worth  | surface           |
+    | Milwaukee   | underground       |
+    | Houston     | underground       |
+    | Philadelphia| underground       |
+    | Atlanta     | surface           | 
+
+
 
 <img width="966" alt="Screenshot 2023-06-19 at 4 34 53 PM" src="https://github.com/ehibbard13/Project-1/assets/130424499/36245dc8-2825-452c-bd8d-bce807ac4d4d">
