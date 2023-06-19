@@ -45,8 +45,9 @@ finds that there is no correlation between the population of a city and the capa
 
 ![alt text](https://github.com/ehibbard13/Project-1/blob/main/Project%201/Output/Parking_Type.png)
 
+
+
   2. **What is the mean, median, and mode of parking capacity for each city?**  
-     **What are the potential outliers?**
 
      | **City**    | **Mean**  | **Median** | **Mode** |
      |:-----------:|:---------:|:----------:|:--------:|
@@ -59,6 +60,17 @@ finds that there is no correlation between the population of a city and the capa
      | Philadelphia| 293.777778 | 280.0     | 403.0    |
      | Atlanta     | 453.666667 | 550.0     | 611.0    |
 
-
+     **What are the potential outliers?**
      
+       * **New York's** *potential outliers are* -60.0 : 444.0  
+       * **Chicago's** *potential outliers are* -480.75 : 993.25  
+       * **Los Angeles's** *potential outliers are* -332.5 : 647.5  
+       * **Phoenix's** *potential outliers are* -526.0 : 2042.0  
+       * **Milwaukee's** *potential outliers are* -447.75 : 1116.25  
+       * **Houston's** *potential outliers are* -886.25 : 1843.75  
+       * **Philadelphia's** *potential outliers are* -100.5 : 631.5  
+       * **Atlanta's** *potential outliers are* 66.75 : 888.75  
+         
+![alt text](https://github.com/ehibbard13/Project-1/blob/main/Project%201/Output/Capacity_BoxPlot.png)
 
+<img width="966" alt="Screenshot 2023-06-19 at 4 34 53 PM" src="https://github.com/ehibbard13/Project-1/assets/130424499/36245dc8-2825-452c-bd8d-bce807ac4d4d">
