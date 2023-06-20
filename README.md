@@ -1,6 +1,12 @@
 # Parking Lot Data From 10 Largest US Cities
 ---
 
+## Table of Contents
+
+[Background](https://github.com/ehibbard13/Project-1#background)
+[Analysis](https://github.com/ehibbard13/Project-1#analysis)
+
+
 ## Background
 
 For our project, we decided to focus on parking lots in 10 of the biggest cities in the US. The data that  
