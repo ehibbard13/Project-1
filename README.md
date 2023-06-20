@@ -3,9 +3,13 @@
 
 ## Table of Contents
 
-[Background](https://github.com/ehibbard13/Project-1#background)
-[Analysis](https://github.com/ehibbard13/Project-1#analysis)
+[Background](https://github.com/ehibbard13/Project-1#background)  
+[Analysis](https://github.com/ehibbard13/Project-1#analysis)  
+[Hypothesis](https://github.com/ehibbard13/Project-1#hypothesis--does-a-citys-population-affect-the-capacity-of-a-parking-lot)  
+[Questions](https://github.com/ehibbard13/Project-1#questions)   
+[Links](https://github.com/ehibbard13/Project-1#links)  
 
+---
 
 ## Background
 
