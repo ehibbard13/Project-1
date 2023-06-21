@@ -115,8 +115,9 @@ finds that there is no correlation between the population of a city and the capa
 
 
 
-      
-<img width="966" alt="Screenshot 2023-06-19 at 4 34 53 PM" src="https://github.com/ehibbard13/Project-1/assets/130424499/36245dc8-2825-452c-bd8d-bce807ac4d4d">
+      ![Screenshot 2023-06-20 at 7 35 14 PM](https://github.com/ehibbard13/Project-1/assets/130424499/e9743241-dbca-47b6-8f33-34d17ed77c72)
+
+
 
 
    * **How does the population of a city affect the parking type?**
