@@ -1,10 +1,10 @@
 city ID,City,Population,Lat,Lon,Parking Type
-0,Los Angeles,4030904,34.0536909,-118.242766,underground
+0,Los Angeles,4030904,34.0536909,-118.242766,surface
 1,New York County,1694251,40.7814865,-73.95905442771002,underground
 2,Chicago,2746388,41.8755616,-87.6244212,surface
-3,Houston,2304580,29.7589382,-95.3676974,underground
+3,Houston,2304580,29.7589382,-95.3676974,multi-storey
 4,Fort Worth,727577,32.753177,-97.3327459,surface
 5,Atlanta,506804,33.7489924,-84.3902644,surface
-6,Milwaukee,605013,43.0349931,-87.922497,underground
-7,Philadelphia,1526006,39.9527237,-75.1635262,underground
+6,Milwaukee,605013,43.0349931,-87.922497,surface
+7,Philadelphia,1526006,39.9527237,-75.1635262,surface
 8,Phoenix,1608139,33.4484367,-112.074141,surface
